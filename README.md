@@ -8,7 +8,7 @@
 
 ```bash
 npm install
-#set ANTHROPIC_API_KEY=...
+#set ANTHROPIC_API_KEY=... in .env file
 npm run dev
 ```
 
